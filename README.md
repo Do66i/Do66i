@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 초보초보초보초보초보초보
-
+ㅇ..오지마세요....
 
 <!---
 Do66i/Do66i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
