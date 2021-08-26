@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  font-family: "Faster One", "Black Han Sans";
+}
+
+a {
+  text-decoration: none;
+  color: rgb(46, 45, 45);
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(10, 148, 148);
+  padding: 8px 12px;
+}
+
+.navbar__logo {
+  font-size: 30px;
+  color: whitesmoke;
+}
+
+.navbar__logo i {
+  color: rgb(72, 19, 133);
+}
+
+.navbar__menu {
+  display: flex;
+  list-style: none;
+  padding-right: 5%;
+}
+
+.navbar__menu li {
+  padding: 8px 12px;
+}
+
+.navbar__menu li:hover {
+  background-color: slategray;
+  border-radius: 4px;
+}
+
+.navbar__icons {
+  list-style: none;
+  color: darkseagreen;
+  display: flex;
+  padding-left: 0;
+}
+
+.navbar__icons li {
+  padding: 8px 12px;
+}
+
+.navbar__toggleBtn {
+  display: none;
+  position: absolute;
+  right: 32px;
+  font-size: 25px;
+  color: rgb(211, 150, 170);
+}
+
+@media screen and (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 8px 24px;
+  }
+
+  .navbar__menu {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+
+  .navbar__menu li {
+    width: 100%;
+    text-align: center;
+    padding-right: 15%;
+  }
+
+  .navbar__icons {
+    display: none;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .navbar__icons li {
+    padding-right: 3%;
+  }
+
+  .navbar__toggleBtn {
+    display: block;
+    padding-top: 0.5%;
+  }
+
+  .navbar__menu.active,
+  .navbar__icons.active {
+    display: flex;
+  }
+}
