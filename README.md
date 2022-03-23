@@ -6,6 +6,7 @@
 
 초보초보초보초보초보초보
 ㅇ..오지마세요....
+와르르멘션급 블로그 👉 https://velog.io/@do66i
 
 <!---
 Do66i/Do66i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
