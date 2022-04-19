@@ -8,7 +8,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Do66i&theme=dark&show_icons=true" />
   
  #### 🐘 울부짖어라 도토 도토잠보 🦣
- ## DO66I 
+ ## DO66I [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDo66ihit-counter&count_bg=%236B42B4&title_bg=%23C2B6B6&icon=counter-strike.svg&icon_color=%23FFF8F8&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
   <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
