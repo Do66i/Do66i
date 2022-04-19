@@ -22,8 +22,8 @@
   
 
 <div>
-<p><a href="https://velog.io/@do66i"></a><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"><br/>
- 👆 CLICK !</p> 
+<p><a href="https://velog.io/@do66i"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"><br/>
+ 👆 CLICK !</a></p> 
   
   <img style="width: 50px; height: 40px;" src="https://img.shields.io/badge/-green?style=social&logo=Nike&logoColor=111111"/>
 <img style="width: 150px; height: 40px;" src="https://img.shields.io/badge/LOVE-green?style=social&logo=Adidas&logoColor=000000"/></div>
