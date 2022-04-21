@@ -22,13 +22,19 @@
   
 
 <div>
-<p><a href="https://velog.io/@do66i"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"><br/>
- 👆 CLICK !</a></p> 
-  
+<h3 align="center"><b>🐋 Social 🦭</b></h3>
+<p align="center">
+<a href="https://www.instagram.com/xoxo.madlife"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/xoxo.madlife"/></a>
+<a href="https://velog.io/@do66i"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@do66i"/></a>
+  </br>
+  </br>
+</p>
   <img style="width: 50px; height: 40px;" src="https://img.shields.io/badge/-green?style=social&logo=Nike&logoColor=111111"/>
 <img style="width: 150px; height: 40px;" src="https://img.shields.io/badge/LOVE-green?style=social&logo=Adidas&logoColor=000000"/></div>
 <img style="width: 180px; height: 40px;" src="https://img.shields.io/badge/COFFEE-green?style=social&logo=Starbucks&logoColor=006241" /><br/>
-<img style="width: 55px; height: 40px;" src="https://img.shields.io/badge/-green?style=social&logo=Steam&logoColor=#000000"/><img style="width: 150px; height: 40px;" src="https://img.shields.io/badge/GAME-green?style=social&logo=Battle.net&logoColor=148EFF"/>
+<img style="width: 50px; height: 40px;" src="https://img.shields.io/badge/-green?style=social&logo=Discord&logoColor=5865F2"/><img style="width: 55px; height: 40px;" src="https://img.shields.io/badge/-green?style=social&logo=Steam&logoColor=#000000"/><img style="width: 150px; height: 40px;" src="https://img.shields.io/badge/GAME-green?style=social&logo=Battle.net&logoColor=148EFF"/>
+
+
 
 </div>
 
