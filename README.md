@@ -11,20 +11,26 @@
  ## DO66I [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDo66ihit-counter&count_bg=%236B42B4&title_bg=%23C2B6B6&icon=counter-strike.svg&icon_color=%23FFF8F8&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
-  <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></p>
-<p><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></p>
-  
-  ---
+<p>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Stack Overflow-F58025?style=for-the-badge&logo=Stack Overflow&logoColor=white">
+<!--<img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=Apple&logoColor=white">-->
+</p>
+  </br>
+
+---
 
   
 
 <div>
 <h3 align="center"><b>🐋 Social 🦭</b></h3>
 <p align="center">
-<a href="https://www.instagram.com/xoxo.madlife"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/xoxo.madlife"/></a>
 <a href="https://velog.io/@do66i"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@do66i"/></a>
   </br>
   </br>
